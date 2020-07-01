@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-İstifadə Şərtləri | eschola.net
+  İstifadə Şərtləri | <a href="https://eschola.net">eschola.net</a>
 </head>
 <body>
 <div style=padding-left:20px;padding-right:20px;>
