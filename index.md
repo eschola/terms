@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>İstifadə Şərtləri | eschola.net</title>
+İstifadə Şərtləri | eschola.net
 </head>
 <body>
 <div style=padding-left:20px;padding-right:20px;>
